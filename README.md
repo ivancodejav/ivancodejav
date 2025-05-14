@@ -37,7 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_esponjaaa" height="30" width="40" />
   </a>
   <a href="https://wa.me/59891032377" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/67/WhatsApp_logo_2023.png" alt="whatsapp" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="40" width="40" />
   </a>
 </p>
 
