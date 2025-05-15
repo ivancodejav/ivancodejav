@@ -41,5 +41,6 @@
 
 <h3 align="center">Lenguajes y Herramientas - Habilidades</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancodejav&layout=compact&theme=radical&card_width=400&border_radius=50%" alt="lenguajes" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancodejav&layout=compact&theme=radical&card_width=400&border_radius=50" alt="lenguajes" />
+
 </p>
