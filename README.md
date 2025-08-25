@@ -23,6 +23,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> 
   </a> 
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Conéctame:</h3>
@@ -34,9 +38,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_esponjaaa" height="30" width="40" />
   </a>
   <a href="https://wa.me/59891032377" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Whatsapp_icon.png" alt="whatsapp" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="30" width="40" />
   </a>
 </p>
+
+
 
 <h3 align="center">Lenguajes y Herramientas - Habilidades</h3>
 <p align="center">
